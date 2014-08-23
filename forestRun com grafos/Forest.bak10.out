@@ -1,0 +1,22 @@
+Timestamp: 9/Dez/2012 23:18:05
+CellMaxPower: 150.0
+DebugMode: false
+EfficientComm: true
+EfficientHuman: true
+MapFile: 2.0
+NumCaptains: 20.0
+NumRobots: 100.0
+NumSoldiers: 50.0
+RadioCommInterval: 40.0
+RadioMaxPower: 400.0
+RadioMaxRange: 100.0
+RobotMaxPower: 350.0
+UseIcons: false
+VisionRange: 4.0
+WithGraphics: true
+
+
+"run","tick","RngSeed","numRobots","numSoldiers","numCaptains","radioCommInterval","radioMaxRange","visionRange","robotMaxPower","radioMaxPower","useIcons","cellMaxPower","efficientComm","efficientHuman","debugMode","mapFile","withGraphics"
+1,388.0,1355095085821,100.0,50.0,20.0,40.0,100.0,4.0,350.0,400.0,false,150.0,true,true,false,2.0,true
+
+End Time: 9/Dez/2012 23:20:322,0.0,1355095105164,100.0,50.0,20.0,40.0,100.0,4.0,350.0,400.0,false,150.0,true,true,false,2.0,true

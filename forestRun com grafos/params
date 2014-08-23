@@ -1,0 +1,62 @@
+runs: 10
+RadioCommInterval {
+  set: 40
+}
+
+MapFile {
+  set: 2
+}
+
+NumCaptains {
+  set: 0
+}
+
+RadioMaxRange {
+  set: 20
+}
+
+NumRobots {
+  set: 0
+}
+
+RobotMaxPower {
+  set: 350
+}
+
+RadioMaxPower {
+  set: 1000
+}
+
+VisionRange {
+  set: 5
+}
+
+EfficientHuman {
+  set_boolean: true
+}
+
+EfficientComm {
+  set_boolean: true
+}
+
+UseIcons {
+  set_boolean: false
+}
+
+WithGraphics {
+  set_boolean: true
+}
+
+NumSoldiers {
+  set: 100
+}
+
+CellMaxPower {
+  set: 0
+}
+
+DebugMode {
+  set_boolean: false
+}
+
+

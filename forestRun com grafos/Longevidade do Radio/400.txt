@@ -1,0 +1,58 @@
+Number of Iterations
+10
+Parameters:
+	RadioCommInterval: 40
+	MapFile: 2
+	NumCaptains: 20
+	RadioMaxRange: 40
+	NumRobots: 100
+	RobotMaxPower: 350
+	RadioMaxPower: 400
+	VisionRange: 40
+	EfficientHuman: true
+	EfficientComm: true
+	UseIcons: false
+	NumSoldiers: 50
+	CellMaxPower: 150
+	DebugMode: false
+	WithGraphics: true
+
+--------------------------------------------------------
+Iteration#1:
+97
+
+--------------------------------------------------------
+Iteration#2:
+94
+
+--------------------------------------------------------
+Iteration#3:
+105
+
+--------------------------------------------------------
+Iteration#4:
+84
+
+--------------------------------------------------------
+Iteration#5:
+94
+
+--------------------------------------------------------
+Iteration#6:
+102
+
+--------------------------------------------------------
+Iteration#7:
+94
+
+--------------------------------------------------------
+Iteration#8:
+92
+
+--------------------------------------------------------
+Iteration#9:
+110
+
+--------------------------------------------------------
+Iteration#10:
+96
